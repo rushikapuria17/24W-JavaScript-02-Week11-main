@@ -1,0 +1,19 @@
+{
+    "companyName": "Icecream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavours": [{
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup","Pepermint sprinkle","Vanilla Base"],
+        "image": ""
+    },{
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup","Mango chunks","Vanilla Base"],
+        "image": ""
+    }]
+}
