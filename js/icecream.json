@@ -19,7 +19,19 @@
         "name": "Stawberry Sprinkle",
         "calories": 300,
         "type": "milkshake-ice-cream",
-        "ingredients": ["Stawberry Syrup","Sprinkles","Vanilla Base","Chocolate Syrup"],
+        "ingredients": ["Stawberry Syrup","Pink Sprinkles","Vanilla Base","Chocolate Syrup"],
         "image": "https://rushikapuria17.github.io/24W-JavaScript-02-Week11-main/images/strawberry-sprinkle.svg"
+    },{
+        "name": "Green Apple",
+        "calories": 230,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Green Apple Syrup","Green Sprinkles","Vanilla Base"],
+        "image": "https://rushikapuria17.github.io/24W-JavaScript-02-Week11-main/images/ice-cream-xtra1.svg"
+    },{
+        "name": "Butterscotch",
+        "calories": 340,
+        "type": "ice-cream",
+        "ingredients": ["Butterscotch Syrup","cream chunks","Vanilla Base"],
+        "image": "https://rushikapuria17.github.io/24W-JavaScript-02-Week11-main/images/ice-cream-xtra2.svg"
     }]
 }
