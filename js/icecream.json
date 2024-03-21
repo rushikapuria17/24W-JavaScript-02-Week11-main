@@ -15,5 +15,11 @@
         "type": "milkshake-type ice-cream",
         "ingredients": ["Peach Syrup","Mango chunks","Vanilla Base"],
         "image": "https://rushikapuria17.github.io/24W-JavaScript-02-Week11-main/images/peach-mango.svg"
+    },{
+        "name": "Stawberry Sprinkle",
+        "calories": 300,
+        "type": "milkshake-ice-cream",
+        "ingredients": ["Stawberry Syrup","Sprinkles","Vanilla Base","Chocolate Syrup"],
+        "image": "https://rushikapuria17.github.io/24W-JavaScript-02-Week11-main/images/strawberry-sprinkle.svg"
     }]
 }
